@@ -12,8 +12,6 @@ ifndef::imagesdir[:imagesdir: images]
 
 ## Unterstützung statischer Analysen in einem Testsystem für HTML-Archive
 
-test
-
 * xref:1einfuehrung.adoc[]
 * xref:2klassifikation.adoc[]
 * xref:3fehleranalyse.adoc[]
