@@ -1,7 +1,6 @@
 # Grosser Beleg (1996) - Unterstützung statischer Analysen in einem Testsystem für HTML-Archive
 
-* [Grosser Beleg](https://huluvu424242.github.io/grosser-beleg/beleg/index.html){:target="_blank"}
-* <a href="https://huluvu424242.github.io/grosser-beleg/beleg/index.html" rel="nofollow" target="_blank">Grosser Beleg</a>
+* [Grosser Beleg](https://huluvu424242.github.io/grosser-beleg/beleg/index.html)
 * [Folien für die Verteidigung](https://huluvu424242.github.io/grosser-beleg/folien-verteidigung/index.html)
 
 
