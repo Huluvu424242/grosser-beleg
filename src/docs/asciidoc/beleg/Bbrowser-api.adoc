@@ -13,7 +13,7 @@ file: ...vollerPfadname..
 eingetragen. anschließend wird das Signal SIGUSR1 an die Anwendung gesendet, woraufhin diese die Anweisungen der
  Initialisierungsdatei ausführt. einee detaillierte Beschreibung findet man unter:
 
-link: http://www.ncsa.uiuc.edu/SDG/Software/XMosaic/remote-control.html[,role=resource,window=_blank]
+link: https://www.desy.de/web/mosaic/remote-control.html[,role=resource,window=_blank]
 
 Im ersten Teil werden die wichtigsten Variablen belegt. In hts-browser-app wird der Path zum Starten des XMoasic abgelegt.
 Die Varable hts-browser-par enthält die Parameter, welche beim Aufruf benutzt werden sollen. In der Varablen
