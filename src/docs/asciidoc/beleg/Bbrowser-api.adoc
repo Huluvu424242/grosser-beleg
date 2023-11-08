@@ -1,0 +1,1 @@
+## Schnittstelle zur Steuerung des Browsers
