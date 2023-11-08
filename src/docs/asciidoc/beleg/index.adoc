@@ -14,17 +14,17 @@ ifndef::imagesdir[:imagesdir: images]
 
 
 
-* xref:beleg/1einfuehrung.adoc[]
-* xref:beleg/2klassifikation.adoc[]
-* xref:beleg/3fehleranalyse.adoc[]
-* xref:beleg/4validationswerkzeuge.adoc[]
-* xref:beleg/5konzept.adoc[]
-* xref:beleg/6ausblick.adoc[]
-* xref:beleg/7literatur.adoc[]
-* xref:beleg/Aklassifizierung.adoc[]
-* xref:beleg/Bbrowser-api.adoc[]
-* xref:beleg/Ctypographie-regeln.adoc[]
-* xref:beleg/Dhts-doku.adoc[]
+* xref:1einfuehrung.adoc[]
+* xref:2klassifikation.adoc[]
+* xref:3fehleranalyse.adoc[]
+* xref:4validationswerkzeuge.adoc[]
+* xref:5konzept.adoc[]
+* xref:6ausblick.adoc[]
+* xref:7literatur.adoc[]
+* xref:Aklassifizierung.adoc[]
+* xref:Bbrowser-api.adoc[]
+* xref:Ctypographie-regeln.adoc[]
+* xref:Dhts-doku.adoc[]
 
 ## Metadaten
 
