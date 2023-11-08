@@ -1,1 +1,26 @@
 ## Schnittstelle zur Steuerung des Browsers
+
+Das Testsystem HTS benötigt zur Bewertung des Dokumentes durch den Tester die Möglichkeit, gezielt Dokumente zu visualisieren.
+Hierzu wurde eine Schnittstelle zum HTML-Borwser XMosaic realisiert. Diese kann aber auch ohne Einbindung in das Testsystem
+genutzt werden. Sie arbeitet nach folgendem Prinzip. Die Anwendung wird mittels eines asynchrones Prozesses gestartet.
+Das darzustellende Dokument muß als Datei im lokalen Verzeichnisbaum erreichbar sein. In der Initialisierungsdatei des XMosaic werden die Zeilen:
+
+```
+goto
+file: ...vollerPfadname..
+```
+
+eingetragen. anschließend wird das Signal SIGUSR1 an die Anwendung gesendet, woraufhin diese die Anweisungen der
+ Initialisierungsdatei ausführt. einee detaillierte Beschreibung findet man unter:
+
+link: www.ncsa.uiuc.edu/SDG/Software/XMosaic/remote-control.html
+
+Im ersten Teil werden die wichtigsten Variablen belegt. In hts-browser-app wird der Path zum Starten des XMoasic abgelegt.
+Die Varable hts-browser-par enthält die Parameter, welche beim Aufruf benutzt werden sollen. In der Varablen
+hts-browser-start-page wird der komplette Pfad der Datei, welche nach dem Start angezeigt werden soll, abgelegt. Wichtig
+ist auch die Variable hts-browser-signal-siguser1. Sie wird mit dem numerischen Wert des Signals SIGUSR1 initialisiert.
+Welcher Wert diesem Signal entspricht, kann über - man signal - in Erfahrung gebracht werden.
+
+Beim Laden der Library wird die Anwendung automatisch gestartet. Mit der Funktion hts-broser-new-page kann zu einer
+neuen Seite gewechselt werden. Hierbei ist der Dateiname mit vollem Path als String zu übergeben.
+
