@@ -1,7 +1,7 @@
-# Open Books
+# Grosser Beleg (1996) - Unterstützung statischer Analysen in einem Testsystem für HTML-Archive
 
-* [Zone 7](https://huluvu424242.github.io/open-books/zone7/index.html)
-* [Neuland](https://huluvu424242.github.io/open-books/neuland/index.html)
+* [Grosser Beleg](https://huluvu424242.github.io/grosser-beleg/beleg/index.html)
+* [Folien für die Verteidigung](https://huluvu424242.github.io/grosser-beleg/folien-verteidigung/index.html)
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
