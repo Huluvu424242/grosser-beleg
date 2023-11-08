@@ -1,0 +1,1 @@
+## Konzeptionelle Lösung der Programmkomponente zur statischen Analyse
