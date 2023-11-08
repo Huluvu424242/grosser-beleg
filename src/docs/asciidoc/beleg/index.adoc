@@ -1,0 +1,37 @@
+= Inhalt
+Doc Writer <huluvu424242@gmail.com>
+v1.0, {docdate}
+:example-caption!:
+ifndef::imagesdir[:imagesdir: images]
+
+:Author:    Thomas Schubert
+:Email:     <huluvu424242@gmail.com>
+:toc: left
+:toc-title: Inhalt
+:icons: font
+
+## Unterstützung statischer Analysen in einem Testsystem für HTML-Archive
+
+
+
+* xref:beleg/1einfuehrung.adoc[]
+* xref:beleg/2klassifikation.adoc[]
+* xref:beleg/3fehleranalyse.adoc[]
+* xref:beleg/4validationswerkzeuge.adoc[]
+* xref:beleg/5konzept.adoc[]
+* xref:beleg/6ausblick.adoc[]
+* xref:beleg/7literatur.adoc[]
+* xref:beleg/Aklassifizierung.adoc[]
+* xref:beleg/Bbrowser-api.adoc[]
+* xref:beleg/Ctypographie-regeln.adoc[]
+* xref:beleg/Dhts-doku.adoc[]
+
+## Metadaten
+
+.Built-in
+asciidoctor-version:: {asciidoctor-version}
+safe-mode-name:: {safe-mode-name}
+docdir:: {docdir}
+docfile:: {docfile}
+imagesdir:: {imagesdir}
+docdate:: {docdate}
