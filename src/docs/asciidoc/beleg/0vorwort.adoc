@@ -3,13 +3,13 @@
 In der heutigen Zeit gewinnt der elektronische Produktkatalog (EPK) bei der Vertriebsunterstützung
 immer größere Bedeutung. Jedoch liegt zu seiner Erstellung und Wartung noch
 keine geschlossene Entwicklungsmethode vor. Es mangelt bereits an geeigneten
-Sprachmitteln für Meidandrehbücher als Form der formalen Spezifikation des EPK. Die
+Sprachmitteln für Mediendrehbücher als Form der formalen Spezifikation des EPK. Die
 Kosten für die Erstellung und Wartung eines EPK erstrecken sich von mehreren hundert
 bis tausend DM pro Bildschirmseite. Sie entstehen durch aufwendige Testung besonders
 bei Katalogen, die länderübergreifend angeboten und damit in verschiedene Sprachen transformiert werden
 müssen. Auf Grund der hohen Kosten verzichten vor allem kleine
 und mittelständische Betriebe auf ihren Einsatz. Um die aufgeführten Probleme zu lösen,
-wurde das EPK-fix Projekt ins Leben gerufen. Im Rahmen dieses Projektes arbeiten foldgende Partner zusammen:
+wurde das EPK-fix Projekt ins Leben gerufen. Im Rahmen dieses Projektes arbeiten folgende Partner zusammen:
 
 FORWISS:: Bayrisches Forschungszentrum für Wissensbasierte Systeme Forschungsgruppe Wissenserwerb (Prof. Dr. H. Stoyan)
 mediatec:: Gesellschaft für multimediale Systemlösungen mbH (Dr. Lutze)
