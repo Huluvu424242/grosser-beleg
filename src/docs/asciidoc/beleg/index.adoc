@@ -12,18 +12,18 @@ ifndef::imagesdir[:imagesdir: images]
 
 ## Unterstützung statischer Analysen in einem Testsystem für HTML-Archive
 
-* xref:1einfuehrung.adoc[]
-* xref:0vorwort.adoc[]
-* xref:2klassifikation.adoc[]
-* xref:3fehleranalyse.adoc[]
-* xref:4validationswerkzeuge.adoc[]
-* xref:5konzept.adoc[]
-* xref:6ausblick.adoc[]
-* xref:7literatur.adoc[]
-* xref:Aklassifizierung.adoc[]
-* xref:Bbrowser-api.adoc[]
-* xref:Ctypographie-regeln.adoc[]
-* xref:Dhts-doku.adoc[]
+* xref:0vorwort.adoc[Vorwort]
+* xref:1einfuehrung.adoc[Einführung]
+* xref:2klassifikation.adoc[Empirische Klassifikation der Fehler und Defekte]
+* xref:3fehleranalyse.adoc[Möglichekeiten der Fehleranalyse]
+* xref:4validationswerkzeuge.adoc[Validationswerkzeuge]
+* xref:5konzept.adoc[Konzeptionelle Lösung der Programmkomponente zur statischen Analyse]
+* xref:6ausblick.adoc[Ausblick]
+* xref:7literatur.adoc[Literaturverzeichnis]
+* xref:Aklassifizierung.adoc[Übersichten zur Klassifizierung]
+* xref:Bbrowser-api.adoc[Schnittstelle zur Steuerung des Browsers]
+* xref:Ctypographie-regeln.adoc[Ausgewählte typographische Regeln]
+* xref:Dhts-doku.adoc[Anwenderdokumentation zum Testsystem HTS]
 
 ## Metadaten
 
