@@ -12,7 +12,7 @@ ifndef::imagesdir[:imagesdir: images]
 
 ## Unterstützung statischer Analysen in einem Testsystem für HTML-Archive
 
-include:: images/Aufgabenstellung.jpg
+image::images/Aufgabenstellung.jpg
 
 * xref:0vorwort.adoc[Vorwort]
 * xref:1einfuehrung.adoc[Einführung]
