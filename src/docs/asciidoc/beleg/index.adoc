@@ -10,9 +10,9 @@ ifndef::imagesdir[:imagesdir: images]
 :toc-title: Inhalt
 :icons: font
 
-## Unterstützung statischer Analysen in einem Testsystem für HTML-Archive
+image::./Aufgabenstellung.jpg[]
 
-image::images/Aufgabenstellung.jpg[]
+## Unterstützung statischer Analysen in einem Testsystem für HTML-Archive
 
 * xref:0vorwort.adoc[Vorwort]
 * xref:1einfuehrung.adoc[Einführung]
